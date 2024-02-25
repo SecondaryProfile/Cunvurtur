@@ -13,7 +13,6 @@ git clone https://github.com/your_username/cunvurtur.git
 
 Navigate to the project directory:
 
-
 ```bash
 cd cunvurtur
 ```
@@ -43,13 +42,8 @@ The converted files will be generated in the specified output directory.
 The software supports the following conversion types as outlined in conversion_types.txt:
 
 
-* Bin (Cue) -> Iso
-* Iso -> Bin (Cue)
-
-
-
 ## Dependencies
 
 Bugs / TODOs
 
-* Bin2Iso checking for bchunk
+* Bin <-> Iso
